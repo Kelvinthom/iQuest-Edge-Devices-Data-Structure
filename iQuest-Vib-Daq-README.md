@@ -1,6 +1,3 @@
-Here’s a cleaned, properly structured, and non-duplicated version with consistent formatting, clearer hierarchy, and fixed Markdown issues:
-
-
 # iQuest-Vib-Daq Data Specification
 
 ## Overview
@@ -113,4 +110,4 @@ Temperature measurements captured by the DAQ system. Used for thermal monitoring
 
 RMS value of rotational speed or speed variation. Indicates operational stability and mechanical performance consistency.
 
-`
+
